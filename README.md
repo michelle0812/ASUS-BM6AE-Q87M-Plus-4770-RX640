@@ -16,8 +16,11 @@
   <tr>  
     <td>固態硬碟</td><td>Cruical MX500 1TB</td>
   </tr>
+    <tr>  
+    <td>網卡</td><td>Intel 82571EB Dual Gigabit 10/100/1000</td>
+  </tr>
   <tr>
-    <td>系統</td><td>macOS Sequoia 15.2 + OpenCore 1.0.3</td>
+    <td>系統</td><td>macOS Sequoia 15.3 + OpenCore 1.0.4</td>
   </tr>  
 </table>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202959989-cc162c06-bb07-4952-889d-c1af49746eed.jpg"><br>
@@ -26,3 +29,6 @@
 <img width="450" src="https://github.com/user-attachments/assets/a526b7b0-d7ff-4c16-9be9-7017ddc538eb"><br>
 <img width="450" src="https://github.com/user-attachments/assets/c7367708-672b-40b9-be1c-ebc8578fdd6b"><br>
 <img width="450" src="https://github.com/user-attachments/assets/2035ec8e-f693-403e-af3f-c77eccd649a2"><br>
+<img width="450" src="https://github.com/user-attachments/assets/57b7c4ca-20a7-431e-8f7c-1d72867323b0"><br>
+
+
